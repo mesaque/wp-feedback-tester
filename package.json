@@ -1,0 +1,22 @@
+{
+  "name": "wp-feedback-tester",
+  "version": "1.0.0",
+  "description": "running a simple tests to check if a website is steam working",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesaque/wp-feedback-tester.git"
+  },
+  "author": "Mesaque Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesaque/wp-feedback-tester/issues"
+  },
+  "homepage": "https://github.com/mesaque/wp-feedback-tester#readme",
+  "dependencies": {
+    "webshot": "^0.18.0"
+  }
+}
